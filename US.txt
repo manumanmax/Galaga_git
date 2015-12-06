@@ -1,0 +1,20 @@
+1.	A	C’è un’astronave al centro dello schermo.
+2.	A	Con i 4 tasti freccia l’astronave si orienta in una delle 4 direzioni (sopra, sx, dx, giù).
+3.	A	Premendo il tasto spazio l’astronave spara un colpo avanti e uno dietro.
+4.	M	Sullo sfondo ci sono delle stelle, rappresentate con puntini grigi e bianchi; le stelle si muovono in modo apparente rispetto all’astronave.
+5.	A	In maniera casuale appaiono astronavi nemiche che si dirigono verso l’astronave del giocatore.
+6.	A	Se un proiettile sparato dall’astronave del giocatore colpisce un’astronave nemica, quest’ultima esplode.
+7.	A	Se un’astronave nemica tocca l’astronave del giocatore quest’ultima esplode.
+8.	M	In maniera casuale, le astronavi nemiche sparano un proiettile nella direzione del giocatore.
+9.	M	Se un proiettile delle astronavi nemiche colpisce quella del giocatore, quest’ultima esplode e viene decrementata una vita.
+10.	M	Quando l’astronave del giocatore esplode il gioco ricomincia da una schermata in cui non ci sono astronavi nemiche.
+11.	B	In una partita il giocatore ha a disposizione tre astronavi; una volta che sono esplose tutte appare il messaggio game over e il gioco termina.
+12.	B	Viene visualizzato un punteggio sullo schermo. Ogni volta che un’astronave nemica viene abbattuta viene incrementato il punteggio.
+13.	B	Sono presenti diversi tipi di astronave nemiche: hanno grafica, frequenza di fuoco e velocità diverse.
+14.	B	Alcuni tipi di astronave non si dirigono verso l’astronave del giocatore.
+15.	M	Con il passare del tempo aumenta la difficoltà del gioco, ovvero aumentano le astronavi nemiche e la loro velocità.
+16.	B	Occasionalmente, appare sullo schermo un oggetto bonus; se il giocatore colpisce l’oggetto bonus guadagna un’altra astronave.
+17.	B	Occasionalmente, appare un altro oggetto bonus; se lo si colpisce l’astronave acquisisce la possibilità di sparare anche a destra e sinistra finché non viene distrutta.
+18.	B	Il gioco mantiene la lista dei venti migliori punteggi. Se alla fine della partita il giocatore ha totalizzato uno dei 20 migliori punteggi, gli viene chiesto di inserire il nome.
+19.	B	Durante la partita, premendo il pulsante p il gioco va in pausa fino a che non si ripreme p.
+20.	B	All’avvio, il gioco funziona in modalità demo, ovvero l’astronave si muove senza l’input del giocatore simulando una partita, finché il giocatore non preme un tasto, in quel caso incomincia la partita.
